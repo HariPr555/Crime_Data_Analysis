@@ -32,9 +32,9 @@ The Crime Data from includes 499 crime records each with 13 features that includ
    - Loading and Inserting the values into the Table.
 
 # Data Preprocessing
-- Rename Columns: Ensure appropriate names are used for better analysis.
-- Change Data Types: Ensure columns have appropriate data types (e.g., dates, numbers, text).
-- Handle null values: The columns have constraints to include non-null values only.
+- **Rename Columns**: Ensure appropriate names are used for better analysis.
+- **Change Data Types**: Ensure columns have appropriate data types (e.g., dates, numbers, text).
+- **Handle null values**: The columns have constraints to include non-null values only.
 
 # Exploratory Data Analysis (EDA)
 - **Temporal Analysis**
@@ -57,13 +57,13 @@ The Crime Data from includes 499 crime records each with 13 features that includ
     -  Most crimes have been investigated and marked complete, which can indicate the effectiveness of current investigation processes.
 
 # Recommendations
-- Temporal Focus: Investigate the crime surge in January and ensure preventive measures continue to be effective in future years.
-- Hotspot Enforcement: Prioritize patrolling and surveillance in 800 N ALAMEDA S to mitigate crime rates.
-- Demographic Outreach: Educate young adults on safety, with a focus on reducing their vulnerability to crimes.
-- Premises Safety: Improve street lighting, increase surveillance, and focus on residential and street-level crime prevention.
-- Case Resolution: Allocate more resources to unsolved cases, ensuring thorough investigation and follow-ups to improve resolution rates.
+- **Temporal Focus**: Investigate the crime surge in January and ensure preventive measures continue to be effective in future years.
+- **Hotspot Enforcement**: Prioritize patrolling and surveillance in 800 N ALAMEDA S to mitigate crime rates.
+- **Demographic Outreach**: Educate young adults on safety, with a focus on reducing their vulnerability to crimes.
+- **Premises Safety**: Improve street lighting, increase surveillance, and focus on residential and street-level crime prevention.
+- **Case Resolution**: Allocate more resources to unsolved cases, ensuring thorough investigation and follow-ups to improve resolution rates.
 
 # Future Scope
-- Advanced Predictive Modeling: Implement machine learning to forecast future crimes based on historical data and demographics.
-- Real-Time Crime Monitoring: Integrate real-time data feeds for immediate hotspot identification and dynamic analysis.
-- Cross-Department Collaboration: Combine datasets from various agencies to uncover correlations between socio-economic factors and crime rates.
+- **Advanced Predictive Modeling**: Implement machine learning to forecast future crimes based on historical data and demographics.
+- **Real-Time Crime Monitoring**: Integrate real-time data feeds for immediate hotspot identification and dynamic analysis.
+- **Cross-Department Collaboration**: Combine datasets from various agencies to uncover correlations between socio-economic factors and crime rates.
